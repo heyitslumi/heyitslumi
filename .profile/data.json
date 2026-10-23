@@ -1,0 +1,318 @@
+{
+ "key": "1cd8c19a",
+ "stars": 11,
+ "contributions": 368,
+ "repos": 15,
+ "followers": 21,
+ "languages": [
+  [
+   "Rust",
+   2073969
+  ],
+  [
+   "TypeScript",
+   1680680
+  ],
+  [
+   "JavaScript",
+   132344
+  ],
+  [
+   "Python",
+   108801
+  ],
+  [
+   "MDX",
+   19757
+  ],
+  [
+   "CSS",
+   3432
+  ],
+  [
+   "HTML",
+   1689
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 0,
+    "day": 4,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 5,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 6,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 7,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 8,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 9,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 10,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 11,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 12,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 13,
+    "today": false
+   },
+   {
+    "c": 13,
+    "day": 14,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 15,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 16,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 17,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 19,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 20,
+    "today": false
+   },
+   {
+    "c": 4,
+    "day": 21,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 22,
+    "today": false
+   },
+   {
+    "c": 3,
+    "day": 23,
+    "today": true
+   },
+   null
+  ]
+ ],
+ "streak": {
+  "current": 3,
+  "longest": 5
+ },
+ "pins": [
+  {
+   "name": "aether",
+   "url": "https://github.com/lonersoft/aether",
+   "text": "🥚 a pterodactyl multiegg that isn't shit",
+   "fork": false,
+   "stars": 5,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "CalagopusStats",
+   "url": "https://github.com/heyitslumi/CalagopusStats",
+   "text": "CalagopusStats is a Discord App/Bot designed to check Calagopus Panel stats and post it to your Discord server. It is a fork of PteroStats with more features.",
+   "fork": false,
+   "stars": 1,
+   "language": "JavaScript",
+   "topics": []
+  }
+ ],
+ "all": [
+  {
+   "name": "ssh",
+   "url": "https://github.com/heyitslumi/ssh",
+   "text": "🔑 ssh.amogus.works src because gitlab instance died",
+   "fork": false,
+   "stars": 5,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "plex-docs",
+   "url": "https://github.com/heyitslumi/plex-docs",
+   "text": "idk",
+   "fork": false,
+   "stars": 4,
+   "language": "MDX",
+   "topics": []
+  },
+  {
+   "name": "beehive",
+   "url": "https://github.com/heyitslumi/beehive",
+   "text": "A cowrie honeypot fleet: nine sensors plus one aggregator, geo/ASN enrichment, Grafana dashboards and Discord alerting -- including carrying a public IPv4 to another host with source IPs preserved.",
+   "fork": false,
+   "stars": 1,
+   "language": "Python",
+   "topics": [
+    "cowrie",
+    "debian",
+    "docker",
+    "grafana",
+    "honeypot",
+    "prometheus",
+    "security",
+    "self-hosted",
+    "tailscale",
+    "threat-intelligence"
+   ]
+  },
+  {
+   "name": "CalagopusStats",
+   "url": "https://github.com/heyitslumi/CalagopusStats",
+   "text": "CalagopusStats is a Discord App/Bot designed to check Calagopus Panel stats and post it to your Discord server. It is a fork of PteroStats with more features.",
+   "fork": false,
+   "stars": 1,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "heyitslumi",
+   "url": "https://github.com/heyitslumi/heyitslumi",
+   "text": "My GitHub profile",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "Lyrically",
+   "url": "https://github.com/heyitslumi/Lyrically",
+   "text": "An experimental Discord widget that pulls real-time song info from Spotify via Python script and displays it on the new Discord Widget experiment.",
+   "fork": true,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "opsdeck",
+   "url": "https://github.com/heyitslumi/opsdeck",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "EcliPanel",
+   "url": "https://github.com/heyitslumi/EcliPanel",
+   "text": "An attempt to selfhost EcliPanel, cause why not",
+   "fork": true,
+   "stars": 0,
+   "language": "Rust",
+   "topics": []
+  },
+  {
+   "name": "the-door-site",
+   "url": "https://github.com/heyitslumi/the-door-site",
+   "text": "",
+   "fork": true,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "the-door",
+   "url": "https://github.com/heyitslumi/the-door",
+   "text": "🍯 A Discord bot to automatically catch and ban spam bots by monitoring a dedicated \"honeypot\" channel. With extra goodies included.",
+   "fork": true,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "ipv8",
+   "url": "https://github.com/heyitslumi/ipv8",
+   "text": "🚀 official implementation of ipv8. because 3.4×10³⁸ addresses just weren't enough for our multiversal cluster. (in reality just a repo storing AI slop websites)",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "Fenrir",
+   "url": "https://github.com/heyitslumi/Fenrir",
+   "text": "",
+   "fork": true,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "docs.votion.dev",
+   "url": "https://github.com/heyitslumi/docs.votion.dev",
+   "text": "📘 Votion Development Documentation",
+   "fork": true,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "panel",
+   "url": "https://github.com/heyitslumi/panel",
+   "text": "Pterodactyl alternative written in Rust + React with User Experience in Mind.",
+   "fork": false,
+   "stars": 0,
+   "language": "Rust",
+   "topics": []
+  },
+  {
+   "name": "calagopus-website",
+   "url": "https://github.com/heyitslumi/calagopus-website",
+   "text": "A maintained fork of Calagopus's Website & Documentation",
+   "fork": true,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  }
+ ]
+}
