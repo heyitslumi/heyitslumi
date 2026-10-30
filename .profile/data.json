@@ -1,5 +1,5 @@
 {
- "key": "2ccf3244",
+ "key": "10702bda",
  "stars": 11,
  "contributions": 325,
  "repos": 15,
@@ -133,9 +133,13 @@
    {
     "c": 0,
     "day": 29,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 30,
     "today": true
    },
-   null,
    null
   ]
  ],
