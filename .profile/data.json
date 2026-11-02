@@ -1,8 +1,8 @@
 {
- "key": "3851fdcd",
+ "key": "eef18c7f",
  "stars": 11,
- "contributions": 354,
- "repos": 16,
+ "contributions": 355,
+ "repos": 17,
  "followers": 21,
  "languages": [
   [
@@ -116,7 +116,7 @@
     "today": false
    },
    {
-    "c": 2,
+    "c": 3,
     "day": 2,
     "today": true
    },
@@ -197,6 +197,15 @@
    "fork": false,
    "stars": 1,
    "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "hermes-whatsapp-voice",
+   "url": "https://github.com/heyitslumi/hermes-whatsapp-voice",
+   "text": "Live WhatsApp voice calls with Hermes: call your bot, or let Hermes call you. Hermes plugin + whatsapp-rust sidecar + Gemini Live.",
+   "fork": true,
+   "stars": 0,
+   "language": "Rust",
    "topics": []
   },
   {
