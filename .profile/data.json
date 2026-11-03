@@ -1,17 +1,17 @@
 {
- "key": "6038fde6",
+ "key": "47241399",
  "stars": 11,
- "contributions": 357,
- "repos": 18,
+ "contributions": 359,
+ "repos": 19,
  "followers": 21,
  "languages": [
   [
-   "Rust",
-   2073969
+   "TypeScript",
+   3038808
   ],
   [
-   "TypeScript",
-   1680680
+   "Rust",
+   2073969
   ],
   [
    "JavaScript",
@@ -27,11 +27,11 @@
   ],
   [
    "CSS",
-   3432
+   12797
   ],
   [
    "HTML",
-   1689
+   3425
   ]
  ],
  "days": [
@@ -121,7 +121,7 @@
     "today": false
    },
    {
-    "c": 2,
+    "c": 4,
     "day": 3,
     "today": true
    },
@@ -246,6 +246,15 @@
    "fork": true,
    "stars": 0,
    "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "solstice",
+   "url": "https://github.com/heyitslumi/solstice",
+   "text": "🖥️ a lxc/kvm panel for solstice",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
    "topics": []
   },
   {
