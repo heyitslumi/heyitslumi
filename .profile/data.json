@@ -1,13 +1,13 @@
 {
- "key": "bee6f829",
- "stars": 11,
- "contributions": 392,
+ "key": "e9394e41",
+ "stars": 12,
+ "contributions": 439,
  "repos": 20,
  "followers": 22,
  "languages": [
   [
    "TypeScript",
-   3084185
+   3159558
   ],
   [
    "Rust",
@@ -27,7 +27,7 @@
   ],
   [
    "CSS",
-   13667
+   16829
   ],
   [
    "HTML",
@@ -136,7 +136,7 @@
     "today": false
    },
    {
-    "c": 18,
+    "c": 65,
     "day": 6,
     "today": true
    },
@@ -207,6 +207,15 @@
    ]
   },
   {
+   "name": "solstice",
+   "url": "https://github.com/heyitslumi/solstice",
+   "text": "🖥️ a lxc/kvm panel",
+   "fork": false,
+   "stars": 1,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
    "name": "CalagopusStats",
    "url": "https://github.com/heyitslumi/CalagopusStats",
    "text": "CalagopusStats is a Discord App/Bot designed to check Calagopus Panel stats and post it to your Discord server. It is a fork of PteroStats with more features.",
@@ -267,15 +276,6 @@
    "fork": true,
    "stars": 0,
    "language": "Python",
-   "topics": []
-  },
-  {
-   "name": "solstice",
-   "url": "https://github.com/heyitslumi/solstice",
-   "text": "🖥️ a lxc/kvm panel",
-   "fork": false,
-   "stars": 0,
-   "language": "TypeScript",
    "topics": []
   },
   {
