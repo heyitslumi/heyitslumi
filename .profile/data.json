@@ -1,13 +1,13 @@
 {
- "key": "a092ab60",
+ "key": "bee6f829",
  "stars": 11,
- "contributions": 374,
- "repos": 19,
+ "contributions": 392,
+ "repos": 20,
  "followers": 22,
  "languages": [
   [
    "TypeScript",
-   3073197
+   3084185
   ],
   [
    "Rust",
@@ -27,7 +27,7 @@
   ],
   [
    "CSS",
-   13048
+   13667
   ],
   [
    "HTML",
@@ -136,7 +136,7 @@
     "today": false
    },
    {
-    "c": 0,
+    "c": 18,
     "day": 6,
     "today": true
    },
@@ -144,7 +144,7 @@
   ]
  ],
  "streak": {
-  "current": 1,
+  "current": 2,
   "longest": 5
  },
  "pins": [
@@ -216,6 +216,15 @@
    "topics": []
   },
   {
+   "name": "solstice-images",
+   "url": "https://github.com/heyitslumi/solstice-images",
+   "text": "Solstice-branded Incus cloud images built with distrobuilder",
+   "fork": false,
+   "stars": 0,
+   "language": "Shell",
+   "topics": []
+  },
+  {
    "name": "hermes-agent",
    "url": "https://github.com/heyitslumi/hermes-agent",
    "text": "The agent that grows with you",
@@ -263,7 +272,7 @@
   {
    "name": "solstice",
    "url": "https://github.com/heyitslumi/solstice",
-   "text": "🖥️ a lxc/kvm panel for solstice",
+   "text": "🖥️ a lxc/kvm panel",
    "fork": false,
    "stars": 0,
    "language": "TypeScript",
