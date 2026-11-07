@@ -1,13 +1,13 @@
 {
- "key": "d36ca906",
+ "key": "452b7c3a",
  "stars": 12,
- "contributions": 454,
+ "contributions": 486,
  "repos": 20,
  "followers": 22,
  "languages": [
   [
    "TypeScript",
-   3169313
+   3271971
   ],
   [
    "Rust",
@@ -141,7 +141,7 @@
     "today": false
    },
    {
-    "c": 15,
+    "c": 47,
     "day": 7,
     "today": true
    }
@@ -213,11 +213,17 @@
   {
    "name": "solstice",
    "url": "https://github.com/heyitslumi/solstice",
-   "text": "🖥️ a lxc/kvm panel",
+   "text": "🖥️ a lxc/kvm panel powered by Incus",
    "fork": false,
    "stars": 1,
    "language": "TypeScript",
-   "topics": []
+   "topics": [
+    "incus",
+    "kvm",
+    "lxc",
+    "panel",
+    "vm"
+   ]
   },
   {
    "name": "CalagopusStats",
