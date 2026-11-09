@@ -1,7 +1,7 @@
 {
- "key": "fc369ee1",
+ "key": "c8d3ae49",
  "stars": 12,
- "contributions": 532,
+ "contributions": 528,
  "repos": 20,
  "followers": 22,
  "languages": [
@@ -113,9 +113,13 @@
    {
     "c": 17,
     "day": 8,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 9,
     "today": true
    },
-   null,
    null,
    null,
    null,
