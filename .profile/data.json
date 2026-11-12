@@ -1,13 +1,13 @@
 {
- "key": "e9c17d3e",
+ "key": "467db720",
  "stars": 12,
- "contributions": 553,
+ "contributions": 554,
  "repos": 21,
  "followers": 22,
  "languages": [
   [
    "TypeScript",
-   3380148
+   3380111
   ],
   [
    "Rust",
@@ -31,7 +31,7 @@
   ],
   [
    "HTML",
-   3425
+   3421
   ]
  ],
  "days": [
@@ -126,11 +126,15 @@
     "today": false
    },
    {
-    "c": 6,
+    "c": 7,
     "day": 11,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 12,
     "today": true
    },
-   null,
    null,
    null
   ]
