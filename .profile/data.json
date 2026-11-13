@@ -1,13 +1,13 @@
 {
- "key": "ff238e3",
+ "key": "70202c5",
  "stars": 12,
- "contributions": 555,
+ "contributions": 578,
  "repos": 21,
- "followers": 22,
+ "followers": 23,
  "languages": [
   [
    "TypeScript",
-   3380111
+   3406451
   ],
   [
    "Rust",
@@ -15,7 +15,7 @@
   ],
   [
    "JavaScript",
-   132344
+   136468
   ],
   [
    "Python",
@@ -27,11 +27,11 @@
   ],
   [
    "CSS",
-   16829
+   18773
   ],
   [
    "HTML",
-   3421
+   4585
   ]
  ],
  "days": [
@@ -131,11 +131,15 @@
     "today": false
    },
    {
-    "c": 1,
+    "c": 24,
     "day": 12,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 13,
     "today": true
    },
-   null,
    null
   ]
  ],
