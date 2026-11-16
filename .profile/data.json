@@ -1,7 +1,7 @@
 {
- "key": "737de529",
+ "key": "9b010380",
  "stars": 12,
- "contributions": 622,
+ "contributions": 590,
  "repos": 21,
  "followers": 23,
  "languages": [
@@ -113,9 +113,13 @@
    {
     "c": 2,
     "day": 15,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 16,
     "today": true
    },
-   null,
    null,
    null,
    null,
