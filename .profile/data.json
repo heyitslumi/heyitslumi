@@ -1,5 +1,5 @@
 {
- "key": "aaa77df",
+ "key": "20a62620",
  "stars": 12,
  "contributions": 604,
  "repos": 21,
@@ -123,9 +123,13 @@
    {
     "c": 6,
     "day": 17,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 18,
     "today": true
    },
-   null,
    null,
    null,
    null
