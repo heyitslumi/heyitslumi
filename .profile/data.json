@@ -1,5 +1,5 @@
 {
- "key": "20a62620",
+ "key": "dfbc18a9",
  "stars": 12,
  "contributions": 604,
  "repos": 21,
@@ -128,15 +128,19 @@
    {
     "c": 0,
     "day": 18,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 19,
     "today": true
    },
-   null,
    null,
    null
   ]
  ],
  "streak": {
-  "current": 13,
+  "current": 0,
   "longest": 13
  },
  "pins": [
