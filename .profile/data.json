@@ -1,13 +1,13 @@
 {
- "key": "70e816a0",
+ "key": "291ebffd",
  "stars": 12,
- "contributions": 619,
- "repos": 21,
+ "contributions": 639,
+ "repos": 22,
  "followers": 22,
  "languages": [
   [
    "TypeScript",
-   3474767
+   3480955
   ],
   [
    "Rust",
@@ -15,23 +15,23 @@
   ],
   [
    "JavaScript",
-   146840
+   146956
+  ],
+  [
+   "Svelte",
+   116253
   ],
   [
    "Python",
    108801
   ],
   [
+   "CSS",
+   22847
+  ],
+  [
    "MDX",
    19757
-  ],
-  [
-   "CSS",
-   18773
-  ],
-  [
-   "HTML",
-   14472
   ]
  ],
  "days": [
@@ -111,7 +111,7 @@
   ],
   [
    {
-    "c": 14,
+    "c": 34,
     "day": 22,
     "today": true
    },
@@ -208,6 +208,15 @@
    "fork": false,
    "stars": 1,
    "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "unsubscribe",
+   "url": "https://github.com/heyitslumi/unsubscribe",
+   "text": "Dark-pattern boss rush webapp game built with Svelte 5 — cancel 5 sketchy SaaS free trials in 90 seconds",
+   "fork": false,
+   "stars": 0,
+   "language": "Svelte",
    "topics": []
   },
   {
