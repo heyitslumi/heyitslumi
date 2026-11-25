@@ -1,8 +1,8 @@
 {
- "key": "4e520382",
- "stars": 12,
- "contributions": 642,
- "repos": 23,
+ "key": "695ce4ba",
+ "stars": 11,
+ "contributions": 650,
+ "repos": 22,
  "followers": 22,
  "languages": [
   [
@@ -12,10 +12,6 @@
   [
    "Rust",
    2232580
-  ],
-  [
-   "JavaScript",
-   146956
   ],
   [
    "Python",
@@ -32,6 +28,10 @@
   [
    "MDX",
    19757
+  ],
+  [
+   "JavaScript",
+   15680
   ]
  ],
  "days": [
@@ -126,7 +126,7 @@
     "today": false
    },
    {
-    "c": 12,
+    "c": 21,
     "day": 25,
     "today": true
    },
@@ -151,7 +151,7 @@
   },
   {
    "name": "CalagopusStats",
-   "url": "https://github.com/heyitslumi/CalagopusStats",
+   "url": "https://github.com/Caloptreyx/CalagopusStats",
    "text": "CalagopusStats is a Discord App/Bot designed to check Calagopus Panel stats and post it to your Discord server. It is a fork of PteroStats with more features.",
    "fork": false,
    "stars": 1,
@@ -212,15 +212,6 @@
     "panel",
     "vm"
    ]
-  },
-  {
-   "name": "CalagopusStats",
-   "url": "https://github.com/heyitslumi/CalagopusStats",
-   "text": "CalagopusStats is a Discord App/Bot designed to check Calagopus Panel stats and post it to your Discord server. It is a fork of PteroStats with more features.",
-   "fork": false,
-   "stars": 1,
-   "language": "JavaScript",
-   "topics": []
   },
   {
    "name": "open-convoy",
