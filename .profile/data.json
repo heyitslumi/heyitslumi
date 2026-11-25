@@ -1,8 +1,8 @@
 {
- "key": "7c5e3b42",
+ "key": "393ca783",
  "stars": 12,
- "contributions": 623,
- "repos": 22,
+ "contributions": 630,
+ "repos": 23,
  "followers": 22,
  "languages": [
   [
@@ -11,7 +11,7 @@
   ],
   [
    "Rust",
-   2073969
+   2214005
   ],
   [
    "JavaScript",
@@ -121,11 +121,15 @@
     "today": false
    },
    {
-    "c": 4,
+    "c": 11,
     "day": 24,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 25,
     "today": true
    },
-   null,
    null,
    null,
    null
@@ -216,6 +220,15 @@
    "fork": false,
    "stars": 1,
    "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "open-convoy",
+   "url": "https://github.com/heyitslumi/open-convoy",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Rust",
    "topics": []
   },
   {
